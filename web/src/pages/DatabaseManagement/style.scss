@@ -1,0 +1,15 @@
+.side-col {
+  border-right: 2px solid #333;
+  min-height: 100vh
+}
+
+.side-panel {
+  overflow-x: none !important;
+  overflow-y: auto !important;
+  height: 100vh ;
+  position: fixed !important;
+  left: 0 ;
+  background: #fafafa !important;
+  border-right: 2px solid #eee;
+  padding: 10px;
+}
